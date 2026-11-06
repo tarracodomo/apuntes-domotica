@@ -7,6 +7,7 @@ Notas de trabajo sobre domótica: Home Assistant, módulos ESP, Raspberry Pi y O
 | [Home Assistant](home-assistant/) | Instalación, integraciones, automatizaciones, copias y panel |
 | [ESP y ESPHome](esp/) | Placas, configuración, ahorro de batería, OTA y errores |
 | [Placas SBC](sbc/) | Raspberry Pi, Orange Pi, Docker y servicios |
+| [Meshtastic](meshtastic/) | Radio LoRa en malla: qué es, hardware y errores |
 | [Varios](misc/) | Tabla de pines y glosario |
 
 ## Home Assistant
@@ -31,6 +32,12 @@ Notas de trabajo sobre domótica: Home Assistant, módulos ESP, Raspberry Pi y O
 - [Orange Pi](sbc/02-orange-pi.md)
 - [Docker](sbc/03-docker.md)
 - [Servicios con systemd](sbc/04-servicios.md)
+
+## Meshtastic
+
+- [Qué es y cómo funciona](meshtastic/01-que-es.md): LoRa, la malla, canales y claves, y sus límites.
+- [Hardware](meshtastic/02-hardware.md): Heltec, T-Beam, RAK, T-Deck, antenas y autonomía.
+- [En España y errores](meshtastic/03-espana-y-errores.md): banda de 868 MHz, región y tabla de fallos.
 
 ## Aviso
 
